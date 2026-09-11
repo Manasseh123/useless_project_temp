@@ -2,53 +2,76 @@
 
 
 
-# [Project Name] 🎯
+# സാധനം കയ്യിലുണ്ടോ 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: സാധനം കയ്യിലുണ്ടോ
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Thaarika Bijai - St.Joseph College of Engineering and Technology,Palai 
+- Member 2: Manasseh George - St.Joseph College of Engineering and Technology,Palai 
 
 ### Project Description
-[2-3 lines about what your project does]
+AI-based lost-item finder that predicts where missing objects may be using user history and location data, with real Google Maps navigation, simulated CCTV, witnesses, and a fun courtroom verdict
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+What if your pen, wallet, phone, umbrella or any random object decides to disappear, and instead of simply looking for it, you launch a full-scale AI investigation?”
+
+The problem is basically overthinking a simple lost-item situation. Instead of checking your bag, desk, or pocket first, our system uses AI prediction, Google Maps, detective-style investigation, simulated CCTV, witnesses and even a courtroom to find out where the missing object might be.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built “സാധനം കയ്യിലുണ്ടോ?” — an unnecessarily advanced solution to an unnecessarily simple problem.
+Instead of simply searching around, our system launches a full detective investigation: AI makes a wild guess, Google Maps takes you on the route, CCTV creates suspicious evidence, witnesses are questioned, and finally a judge delivers the ultimate verdict. ⚖️🔍😂
+
+Because sometimes a missing pen doesn't need a solution… it needs a whole criminal investigation. 🖊️🚨
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML5
+- CSS3
+- JavaScript
+- Google Maps JavaScript API
+- Web Speech API
+- Browser Local Storage
+- Responsive Web Design
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No dedicated hardware required
+- Smartphone/Laptop/Desktop
+- Internet connection
+- GPS/Location access (for map-based navigation)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. Download or clone this repository.
+2. Open the project folder.
+3. Add the required Google Maps API key in the JavaScript configuration.
+4. Make sure internet access is available.
+
 
 # Run
-[commands]
+Open the index.html file in a web browser.
+
+For the best experience, run the project using a local server such as:
+- VS Code Live Server
+- GitHub Pages
+- Any local HTTP server
+
 
 ### Project Documentation
 For Software:
 
+
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+
+<a href="https://alwinportfolio.vercel.app/" target="_blank">
+    <img src="Screenshot 2026-09-12 050313.png" alt="Live Demo" width="800"/>
+  </a>
+  
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
