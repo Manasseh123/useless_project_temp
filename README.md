@@ -75,9 +75,18 @@ For Software:
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
+
+<a >
+    <img src="Screenshot 2026-09-12 050350.png" alt="Live Demo" width="800"/>
+  </a>
+
+  
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
+<a >
+    <img src="Screenshot 2026-09-12 050529.png" alt="Live Demo" width="800"/>
+  </a>
 *Add caption explaining what this shows*
 
 # Diagrams
