@@ -68,7 +68,7 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-<a href="https://alwinportfolio.vercel.app/" target="_blank">
+<a >
     <img src="Screenshot 2026-09-12 050313.png" alt="Live Demo" width="800"/>
   </a>
   
