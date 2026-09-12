@@ -238,6 +238,8 @@ The final prototype combines AI-inspired reasoning, location-based navigation, i
     <source src="20260912-0017-13.5144396.mp4" type="video/mp4">
   </video>
 </p>
+
+[▶️ Watch the Demo Video on YouTube](https://youtu.be/USQLA7ze4sE)
 Missing Item Input – The user enters details about the lost item and its last-known information.
 AI-Based Analysis – The system analyses the provided details and gives a probability-based prediction of where the item may be.
 Navigation – The user is guided through the entered locations and predicted destination.
@@ -252,6 +254,8 @@ Witnesses & Verdict – Witness statements are presented, followed by a final ve
     <source src="navi.mp4" type="video/mp4">
   </video>
 </p>
+
+[▶️ Watch the Demo Video on YouTube](https://youtu.be/IgZjKJLrPNc)
 
 ## Team Contributions
 - Thaarika Bijai: - Project concept and workflow design
